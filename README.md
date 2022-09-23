@@ -1,5 +1,5 @@
 <details>
-  <summary>Minhas linguagens de programação e tecnologias (Familiaridade)</summary>
+  <summary>Minhas linguagens de programação e tecnologias (Experiência)</summary>
   
   * (**S**) PHP e MySQL
   * (**A**) Python (Django), JavaScript, Git e HTML5
