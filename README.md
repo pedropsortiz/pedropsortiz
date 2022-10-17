@@ -7,4 +7,4 @@
   * (**C**) C e CSS3
   * (**D**) 
 </details>
-![my-image (2)](https://user-images.githubusercontent.com/78219497/196304835-d970c146-e242-4a08-92d1-ee21da000c1d.png)
+![my-image (2)](https://user-images.githubusercontent.com/78219497/196304890-40ccfd48-5ac5-4326-b8b9-0064b014c354.png)
