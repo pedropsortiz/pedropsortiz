@@ -1,5 +1,5 @@
 <details>
-  <summary>Minhas linguagens de programação e tecnologias (Experiência)</summary>
+  <summary>Minhas linguagens de programação e tecnologias por preferência</summary>
   
   * (**S**) Java
   * (**A**) React, Typescript e NodeJS
