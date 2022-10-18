@@ -6,5 +6,4 @@
   * (**B**) Java, TypeScript, Node.js e React.js
   * (**C**) C e CSS3
   * (**D**) 
-</details>
-![image](https://user-images.githubusercontent.com/78219497/196306032-7ab1a2c1-a03d-460f-a236-c0ea6c579afa.png)
+</details>![3685375b-72c5-4c0e-8947-8fffa22c2825](https://user-images.githubusercontent.com/78219497/196306614-b95079e0-95ca-489f-8775-63651313a168.jpg)
