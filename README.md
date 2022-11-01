@@ -1,12 +1,10 @@
 <details>
-  <summary>Minhas linguagens de programação e tecnologias por preferência</summary>
+  <summary>Minhas linguagens de programação por experiência</summary>
   
-  * (**S**) Java
-  * (**A**) React, Typescript e NodeJS
-  * (**B**) SQL, JavaScript, Git e Python
-  * (**C**) NoSQL, PHP e C
-  * (**D**) Lua
-  * (**F**) C# e C++
+  * (**S**) Java e Kotlin
+  * (**A**) Python e Typescript
+  * (**B**) Javascript
+  * (**C**) PHP e C
+  * (**D**) C++
 </details>
-
-![](https://user-images.githubusercontent.com/78219497/196306614-b95079e0-95ca-489f-8775-63651313a168.jpg)
+![my-image (3)](https://user-images.githubusercontent.com/78219497/199260007-664956b6-b127-469e-85e2-b19c02f6163b.png)
