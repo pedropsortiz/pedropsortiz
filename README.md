@@ -7,4 +7,4 @@
   * (**C**) PHP e C
   * (**D**) C++
 </details>
-![Tierlist](https://i.ibb.co/R0tprBy/my-image-3.png)
+![my-image (3)](https://user-images.githubusercontent.com/78219497/199261906-e28106a0-bad3-45d1-bdc7-c5d9d0aa114c.png)
