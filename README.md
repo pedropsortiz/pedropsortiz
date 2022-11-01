@@ -1,4 +1,3 @@
-![](https://i.ibb.co/R0tprBy/my-image-3.png)
 <details>
   <summary>Minhas linguagens de programação por experiência</summary>
   
@@ -8,3 +7,4 @@
   * (**C**) PHP e C
   * (**D**) C++
 </details>
+![](https://i.ibb.co/R0tprBy/my-image-3.png)
