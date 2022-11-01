@@ -31,4 +31,4 @@ Outras tecnologias que utilizo:
 
 </div>
   
-  <img align="right" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/78219497/199267833-a957e802-21e8-4060-ace4-75a925083087.gif?width=676&height=676">
+  <img align="left" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/78219497/199267833-a957e802-21e8-4060-ace4-75a925083087.gif?width=676&height=676">
