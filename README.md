@@ -1,5 +1,5 @@
 ![](https://user-images.githubusercontent.com/78219497/196306614-b95079e0-95ca-489f-8775-63651313a168.jpg)
-
+![](https://i.ibb.co/R0tprBy/my-image-3.png)
 <details>
   <summary>Minhas linguagens de programação por experiência</summary>
   
