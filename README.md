@@ -28,10 +28,7 @@ Outras tecnologias que utilizo:
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
 </div>
-  <br/>
-  <center>  
-  <img align="left" height="400" style="border-radius:50px;" src="https://user-images.githubusercontent.com/78219497/199267833-a957e802-21e8-4060-ace4-75a925083087.gif?width=676&height=676">
-</center>
+<br/>
+<img align="left" height="400" style="border-radius:50px;" src="https://user-images.githubusercontent.com/78219497/199267833-a957e802-21e8-4060-ace4-75a925083087.gif?width=676&height=676">
 
