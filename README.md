@@ -1,11 +1,11 @@
 <details>
 <summary>Minhas linguagens de programação por experiência</summary>
 <ul>
-	<li>(**S**) Java e Kotlin</li>
-	<li>(**A**) Python e Typescript</li>
-	<li>(**B**) Javascript</li>
-	<li>(**C**) PHP e C</li>
-	<li>(**D**) C++</li>
+	<li>(<b>S</b>) Java e Kotlin</li>
+	<li>(<b>A</b>) Python e Typescript</li>
+	<li>(<b>B</b>) Javascript</li>
+	<li>(<b>C</b>) PHP e C</li>
+	<li>(<b>D</b>) C++</li>
 
 </ul>  
 </details>
