@@ -30,7 +30,15 @@ Outras tecnologias que utilizo:
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
-<br>
+<br><br>
+<h3 align="left">Onde me encontrar:</h3>
+<p align="left">
+<a href="https://codepen.io/pedropsortiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pedropsortiz" height="30" width="40" /></a>
+<a href="https://twitter.com/pedropsortiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pedropsortiz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedro-ortiz-483797205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-ortiz-483797205" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/pedro-ortiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pedro-ortiz" height="30" width="40" /></a>
+<a href="https://instagram.com/pedrops.ortiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrops.ortiz" height="30" width="40" /></a>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedropsortiz&show_icons=true&locale=en" alt="pedropsortiz" /></p>
 
