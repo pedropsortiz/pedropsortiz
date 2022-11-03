@@ -31,3 +31,9 @@ Outras tecnologias que utilizo:
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 <br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedropsortiz&show_icons=true&locale=en&layout=compact" alt="pedropsortiz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedropsortiz&show_icons=true&locale=en" alt="pedropsortiz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedropsortiz&" alt="pedropsortiz" /></p>
