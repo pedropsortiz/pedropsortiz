@@ -6,7 +6,9 @@
 	* (**C**) PHP e C
 	* (**D**) C++
 </details>
+
 ![image](https://user-images.githubusercontent.com/78219497/199262575-ffab36be-9427-4598-9a1b-5a1515791c03.png)
+
 <h3 align="left">Meus frameworks favoritos:</h3>
 <div style="display: inline_block">
 	<img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -17,7 +19,6 @@
 	<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 	<img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/78219497/199267833-a957e802-21e8-4060-ace4-75a925083087.gif?width=676&height=676">
 </div>
-<br>
 <h3 align="left">Outras tecnologias que utilizo:</h3>
 <div style="display: inline_block">
 	<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -36,7 +37,3 @@
 	<a href="" target="blank">
 	<img align="center" src="https://cdn-icons-png.flaticon.com/512/2875/2875435.png" alt="pedrops.ortiz@gmail.com" height="33" width="30" /></a>
 </p>
-<div style="display: inline_block">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedropsortiz&show_icons=true&locale=en" alt="pedropsortiz" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedropsortiz&" alt="pedropsortiz" /></p>
-</div>
