@@ -37,5 +37,5 @@
 	<a href="https://linkedin.com/in/pedro-ortiz-483797205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-ortiz-483797205" height="30" width="40" /></a>
 	<a href="https://stackoverflow.com/users/pedro-ortiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pedro-ortiz" height="30" width="40" /></a>
 	<a href="https://instagram.com/pedrops.ortiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrops.ortiz" height="30" width="40" /></a>
-	<img align="center" src="https://cdn-icons-png.flaticon.com/512/2875/2875435.png" title="pedrops.ortiz@gmail.com" height="40" width="35" />
+	<img align="center" src="https://cdn-icons-png.flaticon.com/512/2875/2875435.png" title="pedrops.ortiz@gmail.com" height="42" width="35" />
 </p>
