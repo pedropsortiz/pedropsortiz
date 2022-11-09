@@ -1,5 +1,5 @@
 <details>
-<summary>Minhas linguagens de programação por experiência</summary>
+<summary>Minhas linguagens de programação por preferência</summary>
 <ul>
 	<li>(<b>S</b>) Java e Kotlin</li>
 	<li>(<b>A</b>) Python e Typescript</li>
