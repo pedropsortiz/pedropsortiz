@@ -20,7 +20,7 @@
 	<img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 	<img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 	<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-	<img align="right" alt="Rafa-pic" height="192" style="border-radius:60px;" src="https://user-images.githubusercontent.com/78219497/199267833-a957e802-21e8-4060-ace4-75a925083087.gif?width=676&height=676">
+	<img align="right" alt="Rafa-pic" height="190" style="border-radius:60px;" src="https://user-images.githubusercontent.com/78219497/199267833-a957e802-21e8-4060-ace4-75a925083087.gif?width=676&height=676">
 </div>
 <h3 align="left">Outras tecnologias que utilizo:</h3>
 <div style="display: inline_block">
