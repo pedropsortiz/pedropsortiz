@@ -1,5 +1,5 @@
 <details>
-<summary>Minhas linguagens de programação por preferência</summary>
+<summary>Minhas linguagens de programação organizadas por preferência</summary>
 <ul>
 	<li>(<b>S</b>) Java, Kotlin e Rust</li>
 	<li>(<b>A</b>) JavaScript, TypesScript, Python e Ruby</li>
